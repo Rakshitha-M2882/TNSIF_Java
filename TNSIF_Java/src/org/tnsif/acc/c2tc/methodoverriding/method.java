@@ -16,7 +16,7 @@ class Calculator
 	}
 }
 
-public class method {
+public class method{
 
 	public static void main(String[] args) {
 		Calculator calc=new Calculator();
