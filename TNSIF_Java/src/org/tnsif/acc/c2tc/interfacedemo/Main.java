@@ -1,3 +1,5 @@
+package org.tnsif.acc.c2tc.interfacedemo;
+
 interface MathOp {
     int operate(int a, int b);
 }
